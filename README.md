@@ -1,5 +1,6 @@
 ---
-permalink: /index
+permalink: /
+layout: home
 title: Home
 list_title: Single-cell Analysis Workshop 2021
 ---
