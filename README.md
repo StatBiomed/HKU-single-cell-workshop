@@ -1,6 +1,12 @@
-## Single-cell analysis workshop at HKU 2021
+---
+permalink: /home
+layout: page
+title: Single-cell Analysis Workshop 2021
+---
 
-Welcome
+
+Welcome to the Single-cell Analysis Workshop 2021, hosted by School of 
+Biomedical Sciences, University of Hong Kong
 
 
 ### Session information
