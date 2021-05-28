@@ -1,6 +1,7 @@
 ---
 permalink: /index
-title: Single-cell Analysis Workshop 2021
+title: Home
+list_title: Single-cell Analysis Workshop 2021
 ---
 
 
