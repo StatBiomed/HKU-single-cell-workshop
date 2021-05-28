@@ -12,4 +12,4 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - ../README.md
+  - README.md
