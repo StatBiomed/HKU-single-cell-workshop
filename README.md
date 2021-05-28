@@ -1,12 +1,11 @@
 ---
-permalink: /home
-layout: page
+permalink: /index
 title: Single-cell Analysis Workshop 2021
 ---
 
 
 Welcome to the Single-cell Analysis Workshop 2021, hosted by School of 
-Biomedical Sciences, University of Hong Kong
+Biomedical Sciences, University of Hong Kong.
 
 
 ### Session information
