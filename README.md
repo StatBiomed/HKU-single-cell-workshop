@@ -10,7 +10,7 @@ Welcome to the Single-cell Analysis Workshop 2021, hosted by School of
 Biomedical Sciences, University of Hong Kong.
 
 Materials are stored in this GitHub repo: 
-https://github.com/StatBiomed/HKU-single-cell-workshop
+[https://github.com/StatBiomed/HKU-single-cell-workshop](https://github.com/StatBiomed/HKU-single-cell-workshop)
 
 ### Session information
 
