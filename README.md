@@ -23,11 +23,19 @@ Materials are stored in this GitHub repo:
 
 ### Registration
 
-* Registration link:
+* Please fill this 
+  [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeRWPi7HAm2vLsx6mJxHBJrTwpr0iNsjXYYM76_88lp3-49rQ/viewform?vc=0&c=0&w=1&flr=0)
+  for registration
 
-* Registration deadline:
+* Registration deadline: **21 June, 2021 (Monday)**
 
 ### Workshop contents
 
-* R session: 
-* 
+(More information coming soon...)
+
+1. R session
+2. Fundamentals of scRNASeq analysis
+3. Clustering and cell type identification
+4. Cell interaction and Cell differentiation trajectory
+5. Cellular genetics
+
