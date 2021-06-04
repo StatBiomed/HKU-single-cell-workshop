@@ -3,6 +3,9 @@ markdown: kramdown
 theme: minima
 # remote_theme: mmistakes/minimal-mistakes
 
+title: Single-cell Workshop 2021
+author:
+  name: School of Biomedical Sciences, HKU
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
