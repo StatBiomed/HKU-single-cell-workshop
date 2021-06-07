@@ -29,7 +29,7 @@ Now you need to use your terminal for the followings. [Please provide guidance o
 * Create a conda environment with both R 4.1 kernel and Rstudio
 
   ```bash
-  conda create r_env r-essentials==4.1 rstudio==1.1.456
+  conda create --name r_env r-essentials==4.1 rstudio==1.1.456
   ```
 
 ### Step 2: install R package in R environment
@@ -47,7 +47,7 @@ Then, you can open RStudio or R from terminal by typing ``rstudio`` or ``R``.
   plot(sample(10), sample(10))
 
   # check session info
-  sesionInfo()
+  sessionInfo()
   ```
 
 * Install Seurat package
