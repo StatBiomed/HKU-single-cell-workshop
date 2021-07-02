@@ -26,7 +26,7 @@ Materials are stored in this GitHub repo:
 (We are actively updating the contents...)
 
 1. Inroduction to R
-   * Online tutorials: https://holab-hku.github.io/R-workshop/
+   * Online tutorials: [https://holab-hku.github.io/R-workshop](https://holab-hku.github.io/R-workshop)
 2. Fundamentals of scRNASeq analysis
    * Single cell technology and Cell Ranger
    * Quality control
