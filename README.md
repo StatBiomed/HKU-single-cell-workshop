@@ -17,26 +17,24 @@ Materials are stored in this GitHub repo:
 1. Jun 28, 2021 (15:00-18:00): Introduction to R by Dr. Joshua Ho (face-to-face)
 2. Jul 05, 2021 (09:00-12:00): Fundamentals of scRNASeq analysis by Dr. Joshua Ho (zoom)
 3. Jul 05, 2021 (13:00-16:00): Clustering and cell type identification by Dr. Asif Javed (zoom)
-4. Jul 06, 2021 (09:00-12:00): Cell interaction and trajectory by Dr. Asif Javed and Dr. Yuanhua Huang (zoom)
+4. Jul 06, 2021 (09:00-12:00): Cell interaction and trajectory analysis by Dr. Asif Javed and Dr. Yuanhua Huang (zoom)
 5. Jul 06, 2021 (13:00-16:00): Cellular genetics by Dr. Yuanhua Huang (zoom)
 
 
-### Registration
+### Workshop contents and materials
 
-* Please fill this 
-  [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeRWPi7HAm2vLsx6mJxHBJrTwpr0iNsjXYYM76_88lp3-49rQ/viewform?vc=0&c=0&w=1&flr=0)
-  for registration
+(We are actively updating the contents...)
 
-* Registration deadline: **21 June, 2021 (Monday)**
-
-### Workshop contents
-
-(More information coming soon...)
-
-1. R session
+1. Inroduction to R
+   * Online tutorials: https://holab-hku.github.io/R-workshop/
 2. Fundamentals of scRNASeq analysis
+   * Single cell technology and Cell Ranger
+   * Quality control
+   * Dimention reduction and visualization
 3. Clustering and cell type identification
-4. Cell interaction and Cell differentiation trajectory
+   * Cell clustering
+   * Annotation of cell types
+4. Cell interaction and trajectory analysis
    * Cell interaction with ligand and receptors
    * Pseudo-time and trajectory analysis
    * RNA velocity
@@ -45,3 +43,12 @@ Materials are stored in this GitHub repo:
    * Copy number variation estimation from scRNA-seq
    * Nuclear SNV analysis in single-cell omics
 
+
+
+### Registration (finished)
+
+* Please fill this 
+  [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeRWPi7HAm2vLsx6mJxHBJrTwpr0iNsjXYYM76_88lp3-49rQ/viewform?vc=0&c=0&w=1&flr=0)
+  for registration
+
+* Registration deadline: **21 June, 2021 (Monday)**
