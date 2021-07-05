@@ -25,27 +25,24 @@ Materials are stored in this GitHub repo:
 
 (We are actively updating the contents...)
 
-1. Inroduction to R
-   * Online tutorials: [https://holab-hku.github.io/R-workshop](https://holab-hku.github.io/R-workshop)
-2. Fundamentals of scRNASeq analysis
+1. Inroduction to R ([Online tutorials](https://holab-hku.github.io/R-workshop))
+2. Fundamentals of scRNASeq analysis 
+([Online tutorials](https://holab-hku.github.io/Fundamental-scRNA/))
    * Single cell technology and Cell Ranger
    * Quality control
    * Dimention reduction and visualization
-3. Clustering and cell type identification
+3. Clustering and cell type identification ([Online tutorials](https://github.com/pkuerten/single_cell_clustering_annotation.github.io/blob/main/index.md))
    * Cell clustering
    * Annotation of cell types
 4. Cell interaction and trajectory analysis
-   * Cell interaction with ligand and receptors
-   * Pseudo-time and trajectory analysis
-   * RNA velocity
-5. Cellular genetics
-   * mtDNA variants for lineage inference from single-cell omics
+   * Cell interaction with ligand and receptors ([Online tutorials](https://github.com/pkuerten/single_cell_clustering_annotation.github.io/blob/main/index.md))
+   * Trajectory inference and RNA velocity ([Online tutorials](https://statbiomed.github.io/SingleCell-Workshop-2021/))
+5. Cellular genetics ([Online tutorials](https://statbiomed.github.io/SingleCell-Workshop-2021/))
+   * Nuclear and mtDNA SNV analysis in single-cell omics
    * Copy number variation estimation from scRNA-seq
-   * Nuclear SNV analysis in single-cell omics
 
 
-
-### Registration (finished)
+### Registration (closed)
 
 * Please fill this 
   [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeRWPi7HAm2vLsx6mJxHBJrTwpr0iNsjXYYM76_88lp3-49rQ/viewform?vc=0&c=0&w=1&flr=0)

@@ -1,3 +1,6 @@
+
+**This documentation is not used for this course**
+
 # R environment set up
 
 There are multiple ways to set up an R environment and install the needed R
@@ -22,14 +25,13 @@ Now you need to use your terminal for the followings. [Please provide guidance o
 
 * Add the conda channels (this step may be needed)
   ```bash
-  conda config --add channels r
   conda config --add channels conda-forge
   ```
 
 * Create a conda environment with both R 4.1 kernel and Rstudio
 
   ```bash
-  conda create --name r_env r-essentials==4.1 rstudio==1.1.456
+  conda create --name r_env r-essentials==4.1
   ```
 
 ### Step 2: install R package in R environment
@@ -80,6 +82,9 @@ Then, you can open RStudio or R from terminal by typing ``rstudio`` or ``R``.
   ```
 
 
+## Using RStudio with R kernel installed from conda
+
+open -na Rstudio
 
 <!-- ### Misc
 
@@ -97,4 +102,6 @@ conda install -c bioconductor r-seurat==3.0.2
 conda install -c bioconductor bioconductor-destiny==3.4.0
 ``` 
 
+
+rstudio==1.1.456
 -->
