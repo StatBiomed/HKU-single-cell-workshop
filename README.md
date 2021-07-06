@@ -23,8 +23,6 @@ Materials are stored in this GitHub repo:
 
 ### Workshop contents and materials
 
-(We are actively updating the contents...)
-
 1. Inroduction to R ([Online tutorials](https://holab-hku.github.io/R-workshop))
 2. Fundamentals of scRNASeq analysis 
 ([Online tutorials](https://holab-hku.github.io/Fundamental-scRNA/))
@@ -44,8 +42,10 @@ Materials are stored in this GitHub repo:
 
 ### Registration (closed)
 
-* Please fill this 
+<!-- * Please fill this 
   [Google form](https://docs.google.com/forms/d/e/1FAIpQLSeRWPi7HAm2vLsx6mJxHBJrTwpr0iNsjXYYM76_88lp3-49rQ/viewform?vc=0&c=0&w=1&flr=0)
-  for registration
+  for registration -->
 
 * Registration deadline: **21 June, 2021 (Monday)**
+
+* Updates: we are planning to run again in this Autumn
