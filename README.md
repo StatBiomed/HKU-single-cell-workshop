@@ -35,7 +35,7 @@ Materials are stored in this GitHub repo:
    * Cell clustering
    * Annotation of cell types
 4. Cell interaction and trajectory analysis
-   * Cell interaction with ligand and receptors ([Online tutorials](https://github.com/pkuerten/single_cell_clustering_annotation.github.io/blob/main/index.md))
+   * Cell interaction with ligand and receptors ([Online tutorials](https://github.com/pkuerten/single_cell_interaction.github.io/blob/main/index.md))
    * Trajectory inference and RNA velocity ([Online tutorials](https://statbiomed.github.io/SingleCell-Workshop-2021/))
 5. Cellular genetics ([Online tutorials](https://statbiomed.github.io/SingleCell-Workshop-2021/))
    * Nuclear and mtDNA SNV analysis in single-cell omics
