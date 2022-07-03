@@ -26,7 +26,7 @@ skills.
 
 
 ## Week 3: Single-cell data pre-processing
-* Learn Linux Command Lines
+* Learn Linux Command Lines, see more guidelines on the [Linux page](Linux_learn.md)
 * Start to use Center Computing server
 <!-- * Alignment and reads counting: [smart-seq data](https://github.com/huangyh09/brie/tree/master/examples/gastrulation) -->
 * CellRanger for 10x genomics data: [3K PBMC data](https://www.10xgenomics.com/resources/datasets/3-k-pbm-cs-from-a-healthy-donor-1-standard-1-1-0)
