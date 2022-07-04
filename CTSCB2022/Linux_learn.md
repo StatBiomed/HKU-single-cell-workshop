@@ -13,7 +13,7 @@
 1. Login to server with SSH
    ```sh
    ssh 10.64.246.14
-   
+
    ssh USER@10.64.246.14
    ssh 10.64.246.14 -l USER
    ```
@@ -28,7 +28,9 @@
 
 
 ## What to achieve this week
-1. download reference and cellranger from 10x genomics; [download page](https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest)
-2. Download data: [3K PBMC data](https://www.10xgenomics.com/resources/datasets/3-k-pbm-cs-from-a-healthy-donor-1-standard-1-1-0)
+1. Reference and cellranger from 10x genomics (downloaded by Weiyu); [download page](https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest)
+2. Sequencing data (downloaded by Weiyu): [3K PBMC data](https://www.10xgenomics.com/resources/datasets/3-k-pbm-cs-from-a-healthy-donor-1-standard-1-1-0)
 3. Run CellRanger for the above 10x genomics data
 4. Explore the technical reports from cellranger
+
+For each of you, only download [cell-by-gene count matrix](https://cf.10xgenomics.com/samples/cell-exp/1.1.0/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz)
