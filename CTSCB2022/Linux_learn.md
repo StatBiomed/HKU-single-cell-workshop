@@ -23,7 +23,7 @@
 4. move, copy and remove files: `mv`, `cp` and `rm`
 5. download data with `wget`
 6. unzip files with `tar`, `gzip` and `zip`. 
-   [Example use `tar`](https://linuxize.com/post/how-to-extract-unzip-tar-gz-file/)
+   [Example use `tar`](https://phoenixnap.com/kb/extract-tar-gz-files-linux-command-line)
 7. and the more the better (the course above is a great place)
 
 
