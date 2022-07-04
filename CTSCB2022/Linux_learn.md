@@ -12,15 +12,19 @@
 ## What to achieve today
 1. Login to server with SSH
    ```sh
-   ssh hpc02.sbms.hku.hk
+   ssh 10.64.246.14
+   
+   ssh USER@10.64.246.14
+   ssh 10.64.246.14 -l USER
    ```
 
 2. nevigate directory with `cd`, `ls`, `pwd`, `mkdir`
 3. read and touch files with `less` and `cat`
-
 4. move, copy and remove files: `mv`, `cp` and `rm`
-
-5. and the more the better (the course above is a great place)
+5. download data with `wget`
+6. unzip files with `tar`, `gzip` and `zip`. 
+   [Example use `tar`](https://linuxize.com/post/how-to-extract-unzip-tar-gz-file/)
+7. and the more the better (the course above is a great place)
 
 
 ## What to achieve this week
