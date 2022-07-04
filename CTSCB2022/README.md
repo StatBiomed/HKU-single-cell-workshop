@@ -29,7 +29,7 @@ skills.
 * Learn Linux Command Lines, see more guidelines on the [Linux page](Linux_learn.md)
 * Start to use Center Computing server
 <!-- * Alignment and reads counting: [smart-seq data](https://github.com/huangyh09/brie/tree/master/examples/gastrulation) -->
-* CellRanger for 10x genomics data: [3K PBMC data](https://www.10xgenomics.com/resources/datasets/3-k-pbm-cs-from-a-healthy-donor-1-standard-1-1-0)
+* CellRanger for 10x genomics data: [1K PBMC data](https://www.10xgenomics.com/resources/datasets/1-k-pbm-cs-from-a-healthy-donor-v-3-chemistry-3-standard-3-0-0)
 * Read and play with [Workshop materials](https://holab-hku.github.io/Fundamental-scRNA/)
 
 
