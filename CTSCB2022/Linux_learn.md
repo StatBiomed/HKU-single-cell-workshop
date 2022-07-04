@@ -33,4 +33,7 @@
 3. Run CellRanger for the above 10x genomics data
 4. Explore the technical reports from cellranger
 
-For each of you, only download [cell-by-gene count matrix](https://cf.10xgenomics.com/samples/cell-exp/1.1.0/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz)
+For each of you, only download cell-by-gene count matrix and play with the commandlines above, e.g., `tar`, `mv`:
+```bash
+wget https://cf.10xgenomics.com/samples/cell-exp/1.1.0/pbmc3k/pbmc3k_filtered_gene_bc_matrices.tar.gz
+```
