@@ -36,6 +36,7 @@ skills.
 ## Week 4: Seurat for single-cell analysis
 * Seurat [tutorial with 3K PBMC data](https://satijalab.org/seurat/articles/pbmc3k_tutorial.html)
 * Read and play with [Workshop materials](https://holab-hku.github.io/Fundamental-scRNA/) chapter 3
+* Try automatic cell type annotation, e.g, by [CellTypist](https://www.celltypist.org/) and [Azimuth](https://azimuth.hubmapconsortium.org/) (Optional and practically useful)
 
 
 ## Week 5: Cell clustering & annotation
