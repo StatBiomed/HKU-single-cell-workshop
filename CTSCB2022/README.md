@@ -41,6 +41,7 @@ skills.
 
 ## Week 5: Cell clustering & annotation
 * 10x genomic data, tentatively from the [CARLIN paper](https://www.cell.com/cell/fulltext/S0092-8674(20)30554-7)
+* Get the data from [GSE146972](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE146972) and using the processed cell-by-gene count matrices in *h5 format in the **Supplementary file**. You are recommended to play with all samples as an integration but you can start with just one sample.
 * Annotation by markers
 * Annotation by automatic prediction
 
